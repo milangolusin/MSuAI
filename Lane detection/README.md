@@ -122,5 +122,5 @@ The goals / steps of this project are the following:
     Pipeline Failures: This pipeline might fail on very sharp turns (where the lines leave the side of the trapezoid).
     Improvements: To make it more robust, I would add a sanity check to ensure the left and right lanes are roughly parallel 
     and have a consistent distance between them.
-    I would implement a system that adjusts the thresholding values based on the average brightness of the image (using lower thresholds for night).
+    To make it more robust, I would implement a system that adjusts the thresholding values based on the average brightness of the image (using lower thresholds for night).
 
