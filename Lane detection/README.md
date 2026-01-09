@@ -1,5 +1,7 @@
 **Lane Finding Project**
 
+# test_videos, test_images, and camera_cal folders required for running this #
+		
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
@@ -15,12 +17,12 @@ The goals / steps of this project are the following:
 
 # Below paths are valid after executing the code, otherwise images and video are saved in ./docs/ with same names.
 
-[image1]: ./pipeline_stages/undistort_output.png "Undistorted"
-[image2]: ./pipeline_stages/binary_combo_example.jpg "Binary Example"
-[image3]: ./pipeline_stages/road_trapezoid.jpg "Trapezoid shape road"
-[image4]: ./pipeline_stages/warped_straight_lines.jpg "Warped"
-[image5]: ./output_images/test1.jpg "Output"
-[video1]: ./output_videos/output_challenge01.mp4 "Video"
+[image1]: ./pipeline_stages/undistort_output.png "Undistorted image"
+[image2]: ./pipeline_stages/binary_combo_example.jpg "Binary Example image"
+[image3]: ./pipeline_stages/road_trapezoid.jpg "Trapezoid shape road image"
+[image4]: ./pipeline_stages/warped_straight_lines.jpg "Warped image"
+[image5]: ./output_images/test1.jpg "Output image result"
+[video1]: ./output_videos/output_challenge01.mp4 "Output video result"
 
 ---
 
